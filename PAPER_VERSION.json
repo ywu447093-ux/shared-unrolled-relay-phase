@@ -1,0 +1,34 @@
+{
+  "manuscript_title": "Shared-weight unrolled phase retrieval with transmission priors for simulated relay-screen imaging",
+  "manuscript_sha256": "b35c2599d89fea5030c635a847fbf0a55c03a8a0289dbae360ac428b9e244b64",
+  "release": "rv2-code-1.0.0",
+  "scope": "source code only",
+  "numerical_tables_match_audited_rv2": true,
+  "preserved_original_scientific_source_files": 44,
+  "scientific_sources_unchanged": true,
+  "original_v12_package_is_not_the_complete_rv2_experiment_suite": true,
+  "excluded_material": [
+    "manuscript",
+    "figures",
+    "data",
+    "weights",
+    "predictions",
+    "metric tables",
+    "optimizer states",
+    "unrelated independent-SPS study"
+  ],
+  "external_baseline_source_not_redistributed": [
+    "SiSPRNet original author model"
+  ],
+  "computational_entry_points": {
+    "main_model_and_depth_attention_sharing": "work/experiments/suite.py",
+    "calibrated_direct_baselines": "work/experiments/calibrated.py",
+    "classical_adaptations": "work/experiments/classical.py",
+    "retrospective_and_object_conditions": "work/experiments/reviewer_validation.py",
+    "final_absorption_pairing": "work/experiments/balanced_pairing.py",
+    "matched_additional_training": "work/experiments/reviewer_training.py",
+    "fouriergs_adaptation": "work/experiments/fouriergs_paired.py",
+    "same_network_no_diffraction": "work/experiments/no_diffraction_train.py",
+    "metrics_and_conditional_intervals": "work/experiments/evidence_analysis.py"
+  }
+}

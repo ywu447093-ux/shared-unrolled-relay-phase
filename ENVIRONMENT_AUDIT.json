@@ -1,0 +1,11 @@
+{
+  "audit_environment_only": true,
+  "python": "3.12.0",
+  "torch": "2.9.1+cu130",
+  "numpy": "2.4.4",
+  "scipy": "1.17.1",
+  "opencv_python": "4.12.0.88",
+  "Pillow": "12.0.0",
+  "matplotlib": "3.10.6",
+  "installation_note": "requirements.txt uses NumPy2.2.6 to satisfy OpenCV4.12 declared metadata. That portable dependency selection is not claimed to be the historical training environment or a bitwise reproduction."
+}

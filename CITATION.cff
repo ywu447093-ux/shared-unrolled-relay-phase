@@ -1,0 +1,17 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the associated manuscript when using this research code.",
+  "title": "Shared-weight unrolled phase retrieval with transmission priors for simulated relay-screen imaging",
+  "type": "software",
+  "version": "rv2-code-1.0.0",
+  "authors": [
+    {
+      "family-names": "Wu",
+      "given-names": "Yifan"
+    },
+    {
+      "family-names": "Wang",
+      "given-names": "Yang"
+    }
+  ]
+}

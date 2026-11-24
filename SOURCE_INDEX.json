@@ -1,0 +1,456 @@
+{
+  "files": [
+    {
+      "module": "suite",
+      "source": "work/experiments/suite.py",
+      "sha256": "4cf0deab1d9ff7d7db3c909d5a3c8454bf00a97cfed3431c70a2b9b16b6f0b85",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/suite.py"
+        },
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/suite.py"
+        }
+      ]
+    },
+    {
+      "module": "calibrated",
+      "source": "work/experiments/calibrated.py",
+      "sha256": "e3985e1d3f7fb97992d2c964a0245fb6c0692bf014815fcab1c714e11ba6b4db",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/calibrated.py"
+        },
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/calibrated.py"
+        }
+      ]
+    },
+    {
+      "module": "stability",
+      "source": "work/experiments/stability.py",
+      "sha256": "552425a84cf4ef3d67bd730f3aedbfb82a41124a08195e7a4c84353aba1af760",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/stability.py"
+        }
+      ]
+    },
+    {
+      "module": "classical",
+      "source": "work/experiments/classical.py",
+      "sha256": "6c8bb505248f94251b854259fdd524762cf5699c4a9905056b6acf33d900176b",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/classical.py"
+        },
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/classical.py"
+        }
+      ]
+    },
+    {
+      "module": "classical_extension",
+      "source": "work/experiments/classical_extension.py",
+      "sha256": "50b068b6237495795e2bb97ec6d357733535f86fc0a1150cba9a33119dd3e2ca",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/classical_extension.py"
+        }
+      ]
+    },
+    {
+      "module": "physennet",
+      "source": "work/experiments/physennet.py",
+      "sha256": "1546247168686c4dc45f9065e4d6c91b1cf6bffa4c98ae7810cffb0bb003b361",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/physennet.py"
+        }
+      ]
+    },
+    {
+      "module": "analyze",
+      "source": "work/experiments/analyze.py",
+      "sha256": "ff3f288d0d4085db7e0b8d4eda7d6bde80a575f135cd28464d237d7e2c8a516b",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/analyze.py"
+        }
+      ]
+    },
+    {
+      "module": "reviewer_validation",
+      "source": "work/experiments/reviewer_validation.py",
+      "sha256": "142a2ecf785036c2c63e242a5a6ff2e2f079289c9e9c4d6515d12d63a295523b",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/reviewer_validation.py"
+        }
+      ]
+    },
+    {
+      "module": "reviewer_training",
+      "source": "work/experiments/reviewer_training.py",
+      "sha256": "4e1f6f9278e03a3b488b4c2ee8f335719160da82e4d3202344073ac697e192d0",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/reviewer_training.py"
+        }
+      ]
+    },
+    {
+      "module": "balanced_pairing",
+      "source": "work/experiments/balanced_pairing.py",
+      "sha256": "70807732219a84062a9063e43e10dba90b6c2873cd34fbb04f1f303f340f2257",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/balanced_pairing.py"
+        }
+      ]
+    },
+    {
+      "module": "fouriergs_paired",
+      "source": "work/experiments/fouriergs_paired.py",
+      "sha256": "2a054fb0e487d3d2e372cb1db57ce48c68ad6eba0622b23fdb60ff865fc8e581",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/fouriergs_paired.py"
+        }
+      ]
+    },
+    {
+      "module": "fouriergs_train",
+      "source": "work/experiments/fouriergs_train.py",
+      "sha256": "adb1e0610d6948cd0a339159bea54c4652e7798028cb8631e45694335ea4c9ec",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/fouriergs_train.py"
+        }
+      ]
+    },
+    {
+      "module": "fouriergs_postanalysis",
+      "source": "work/experiments/fouriergs_postanalysis.py",
+      "sha256": "8e7f252a99a69c51357f71d59864488d9ad441799a9bba3bfc26aa3be4ae6ae9",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/fouriergs_postanalysis.py"
+        }
+      ]
+    },
+    {
+      "module": "no_diffraction_train",
+      "source": "work/experiments/no_diffraction_train.py",
+      "sha256": "49a31e0fbf92c10546fda5164e7baaf16aa0fadaef1be119eb2bd5bcecd593b2",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/no_diffraction_train.py"
+        }
+      ]
+    },
+    {
+      "module": "no_diffraction_postanalysis",
+      "source": "work/experiments/no_diffraction_postanalysis.py",
+      "sha256": "4affa23ca1f972f888324fd1aefbad27c881aaa27628440807fa1dc6347bc050",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/no_diffraction_postanalysis.py"
+        }
+      ]
+    },
+    {
+      "module": "evidence_analysis",
+      "source": "work/experiments/evidence_analysis.py",
+      "sha256": "a671879665c0b8ff87621117768e13dc308be103f81dd410a95ce800e23b82c4",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/evidence_analysis.py"
+        }
+      ]
+    },
+    {
+      "module": "evidence_infer",
+      "source": "work/experiments/evidence_infer.py",
+      "sha256": "e642c8f4fd10f42c47432913eed151697444a9de9009889c2b8885678c9912d4",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/evidence_infer.py"
+        }
+      ]
+    },
+    {
+      "module": "evidence_reproduce",
+      "source": "work/experiments/evidence_reproduce.py",
+      "sha256": "232f562f46fe8ed9815fa25ab6040b844439abdbe61ecc05d19f97daf2971ed5",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/evidence_reproduce.py"
+        }
+      ]
+    },
+    {
+      "module": "gauge_sensitivity",
+      "source": "work/experiments/gauge_sensitivity.py",
+      "sha256": "fa3bf06e5701e686e209794c85f9abd3049e87d12821b4879f381f9a9b244f1f",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/gauge_sensitivity.py"
+        }
+      ]
+    },
+    {
+      "module": "audit_training_evidence",
+      "source": "work/experiments/audit_training_evidence.py",
+      "sha256": "bc4489b293f70a3294a5084d4717abf90bc40af040e3fa92778f06e753d473e1",
+      "matching_archives": [
+        {
+          "archive": "JOSA_A_Evidence_Revision_Package.zip",
+          "entry": "work/experiments/audit_training_evidence.py"
+        }
+      ]
+    },
+    {
+      "module": "infer_selected",
+      "source": "work/experiments/infer_selected.py",
+      "sha256": "cff7e98ba4e80105a480b888e5854d045c19c61d56b997ede7e0ce3452569311",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/infer_selected.py"
+        }
+      ]
+    },
+    {
+      "module": "portable",
+      "source": "work/experiments/portable.py",
+      "sha256": "2d8192f327b8ba3604b08d9ccbc961e8f16b300ae3cd0d7a552e8fe95bbf7d57",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/experiments/portable.py"
+        }
+      ]
+    },
+    {
+      "module": "compact_ncpp_v11_model",
+      "source": "work/code/NCPP_V12/work/compact_ncpp_v11_model.py",
+      "sha256": "bb9b42f5c0d66604964453b6ea94219e8747e295c2b079cee00e7a7789a04966",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/compact_ncpp_v11_model.py"
+        }
+      ]
+    },
+    {
+      "module": "compact_ncpp_v12_model",
+      "source": "work/code/NCPP_V12/work/compact_ncpp_v12_model.py",
+      "sha256": "5f1e96d0243127513e63a07c926b0e2c3549773f0cb895ade16d5b963e9c4dc8",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/compact_ncpp_v12_model.py"
+        }
+      ]
+    },
+    {
+      "module": "benchmark_ncpp_runtime",
+      "source": "work/code/NCPP_V12/work/benchmark_ncpp_runtime.py",
+      "sha256": "24389b8cbd49de071e930858913c05abb3268d19037bb97717120b5d4c3c0b6e",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/benchmark_ncpp_runtime.py"
+        }
+      ]
+    },
+    {
+      "module": "real_model",
+      "source": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/real_model.py",
+      "sha256": "33cef884853dc9f2154df9c7a0117496e9fd5badb5e5d9ae3710119324540f6e",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/real_model.py"
+        }
+      ]
+    },
+    {
+      "module": "train_real_cells",
+      "source": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/train_real_cells.py",
+      "sha256": "d7cfdacee56288dd60c9aaf50cbe8a7227b3cacbc9584a7fa10fa62643c8fef4",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/train_real_cells.py"
+        }
+      ]
+    },
+    {
+      "module": "compact_ncpp_model",
+      "source": "work/code/NCPP_V12/work/compact_ncpp_model.py",
+      "sha256": "efa61a276f3c41184585429d534dc5a27fc5d388c26d67a1b0b3d191c5c566a4",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/compact_ncpp_model.py"
+        }
+      ]
+    },
+    {
+      "module": "real_GAN_dataset",
+      "source": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/real_GAN_dataset.py",
+      "sha256": "9546e2c39195d96f00b7e9f66c0de27f526b885db6724e6aa82d55c5ad6e843c",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/real_GAN_dataset.py"
+        }
+      ]
+    },
+    {
+      "module": "prepare_real_dataset",
+      "source": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/prepare_real_dataset.py",
+      "sha256": "87fa33b675d688108d62740a7cfce2b79724d690a021c9ec7c56ce598dd65edb",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/prepare_real_dataset.py"
+        }
+      ]
+    },
+    {
+      "module": "amplitude_support",
+      "source": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/amplitude_support.py",
+      "sha256": "85a2cf36e84fc6403dd591d541835b64b2a0cadcfd4421b5381157de45539090",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/outputs/ncpp_physical_screen_v11/amplitude_support.py"
+        }
+      ]
+    },
+    {
+      "module": "compact_ncpp_v10_model",
+      "source": "work/code/NCPP_V12/work/compact_ncpp_v10_model.py",
+      "sha256": "c97073a8befbbd907fc8f3c08c1a70b901553382a857e8eca32b219d19e8eb67",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/compact_ncpp_v10_model.py"
+        }
+      ]
+    },
+    {
+      "module": "r1_controlled_experiments",
+      "source": "work/code/NCPP_V12/work/r1_controlled_experiments.py",
+      "sha256": "2d7e707264359a7a25b5d1076d760ee1dff029912ab12e1e431a25083f4582c5",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/r1_controlled_experiments.py"
+        }
+      ]
+    },
+    {
+      "module": "compact_ncpp_v8_model",
+      "source": "work/code/NCPP_V12/work/compact_ncpp_v8_model.py",
+      "sha256": "52c80707a404fba2fb150c355395fb85c7e6e8bd7f9d782e472e43c226de74a1",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/compact_ncpp_v8_model.py"
+        }
+      ]
+    },
+    {
+      "module": "compact_ncpp_v3_model",
+      "source": "work/code/NCPP_V12/work/compact_ncpp_v3_model.py",
+      "sha256": "32143c3c8c0c1c39cb5b5b1120e2e55f0652f780bf055c118b9f23f02b649e3b",
+      "matching_archives": [
+        {
+          "archive": "SingleSeed_Experiments_Code_Weights_and_Data.zip",
+          "entry": "work/code/NCPP_V12/work/compact_ncpp_v3_model.py"
+        }
+      ]
+    },
+    {
+      "module": "inspect_deep_training",
+      "source": "work/experiments/inspect_deep_training.py",
+      "sha256": "616fee7fdbbd649bf24f5f57b4305de249c0e2f70b4e2493706df2a1cda3e55d",
+      "matching_archives": []
+    },
+    {
+      "module": "prepare_compact_v6_views",
+      "source": "work/code/NCPP_V12/work/prepare_compact_v6_views.py",
+      "sha256": "42bec4a01fb02a2daca1e81376380cbeacce73acfc3641ecce55f2274a84672a",
+      "matching_archives": []
+    },
+    {
+      "module": "layout_figures",
+      "source": "work/experiments/layout_figures.py",
+      "sha256": "e1c06f1332eaf8b03a7a5abe0340c0a9e15afd90faa54957d4710aa7acd7ab91",
+      "matching_archives": []
+    },
+    {
+      "module": "evidence_figures",
+      "source": "work/experiments/evidence_figures.py",
+      "sha256": "818b9c911e39d3881e881fc51ba32a81a0b7d941315caaec04215ec9cd7e2b12",
+      "matching_archives": []
+    },
+    {
+      "module": "build_figures",
+      "source": "work/figure_refinement/build_figures.py",
+      "sha256": "677fd53aeb9a6426975fb3757013dda1bc2afb67a5b976435c9c90b50875295b",
+      "matching_archives": []
+    },
+    {
+      "module": "extract_saved_arrays",
+      "source": "work/figure_refinement/extract_saved_arrays.py",
+      "sha256": "351cc83e80b60a6a798e010c28683877903a654a8a4538a8e2850b56abcf3da7",
+      "matching_archives": []
+    },
+    {
+      "module": "reviewer_phase_diagnostics",
+      "source": "work/reviewer_phase_diagnostics.py",
+      "sha256": "e3190550d7cf7c51239e31344dfb95a883859415aa9ef5021c9327a2262bfb84",
+      "matching_archives": []
+    },
+    {
+      "module": "model_GSNet",
+      "source": "work/reviewer_validation_v1/fouriergs_vendor/model_GSNet.py",
+      "sha256": "fe65100ed990dba9134df6f96474ff94307e736ea8defcdfc6cb448e4fc16717",
+      "matching_archives": []
+    },
+    {
+      "module": "LICENSE",
+      "source": "work/reviewer_validation_v1/fouriergs_vendor/LICENSE",
+      "sha256": "13c28987e040c997360af728611623a9a385ef47802b57240cf95b03cc284cf6",
+      "matching_archives": []
+    }
+  ],
+  "note": "Listed files are byte-for-byte copies of the retained computational sources. Added launch/documentation utilities are separate. Archive matches reference pre-existing local research archives, not newly executed training."
+}

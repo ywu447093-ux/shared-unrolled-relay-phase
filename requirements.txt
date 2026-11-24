@@ -1,0 +1,9 @@
+# Python3.12; audited numerical environment. Install the matching CUDA wheel
+# separately if your platform requires the official PyTorch wheel index.
+# NumPy2.2.6 satisfies the declared OpenCV4.12 NumPy constraint.
+torch==2.9.1
+numpy==2.2.6
+scipy==1.17.1
+opencv-python==4.12.0.88
+Pillow==12.0.0
+matplotlib==3.10.6
